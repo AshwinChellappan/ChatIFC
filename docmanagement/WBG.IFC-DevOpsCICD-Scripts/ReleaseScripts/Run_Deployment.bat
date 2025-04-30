@@ -1,0 +1,1 @@
+powershell.exe C:\WBG.IFC-DevOpsCICD-Scripts\DOTNET_DeploymentScript.ps1 %*
